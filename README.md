@@ -1,6 +1,6 @@
 # npmdoc-tape-run
 
-#### api documentation for  [tape-run (v3.0.0)](https://github.com/juliangruber/tape-run)  [![npm package](https://img.shields.io/npm/v/npmdoc-tape-run.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-tape-run) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-tape-run.svg)](https://travis-ci.org/npmdoc/node-npmdoc-tape-run)
+#### basic api documentation for  [tape-run (v3.0.0)](https://github.com/juliangruber/tape-run)  [![npm package](https://img.shields.io/npm/v/npmdoc-tape-run.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-tape-run) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-tape-run.svg)](https://travis-ci.org/npmdoc/node-npmdoc-tape-run)
 
 #### Headless tape test runner
 
